@@ -1,0 +1,18 @@
+Array
+(
+    [0] => Array
+        (
+            [libelle_document] => Docx sujet
+        )
+
+    [1] => Array
+        (
+            [libelle_document] => Test document
+        )
+
+    [2] => Array
+        (
+            [libelle_document] => Document dans mon troisième dossier
+        )
+
+)

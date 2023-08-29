@@ -1,0 +1,5 @@
+- Mettre à jour l'upload de documents (supprimer la table utilisateurs_dossiers) et garder dossiers_documents.
+- Pouvoir rattacher un des dossiers (générer une liste select) 
+- Mutualiser la plateforme de consultation des dossiers, d'uploads.
+- Gestion des documents (suppression/renommage) via la plateforme directement (pas de gestion des docs).
+- Archivage ?

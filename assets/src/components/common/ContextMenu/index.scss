@@ -1,0 +1,14 @@
+#context-menu{
+    position: fixed;
+    z-index: 99999999;
+    padding: 4px 0;
+    background: #ffffff65;
+    backdrop-filter: blur(8px);
+    width: 200px;
+    border-radius: 4px;
+    box-shadow: 0 0 3px -2px var(--systemGray6);
+    
+    .menu-item:last-child{
+        margin-bottom: 0;
+    }
+}
